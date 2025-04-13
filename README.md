@@ -9,4 +9,4 @@ Make sure to install the required libraries:
 
 pip install streamlit scikit-learn nltk joblib
 
-Database used: [IMDB Dataset of 50k Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+Dataset used: [IMDB Dataset of 50k Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) from kaggle.
